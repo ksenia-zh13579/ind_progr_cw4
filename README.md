@@ -1,16 +1,8 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Мини-опросник
+Форма с вопросами, в каждом из которых предложено выбрать один из вариантов, и кнопкой, после нажатия на которую показывается количество правильных ответов.
+## Скриншоты:
+<img width="1920" height="1080" alt="Снимок экрана (826)" src="https://github.com/user-attachments/assets/c52ee9aa-9f49-4981-b5aa-a0931ca4ea8f" />
+<img width="1920" height="1080" alt="Снимок экрана (827)" src="https://github.com/user-attachments/assets/f6b5269b-f94a-46cf-be81-8b6c37dd1f6f" />
+<img width="1920" height="1080" alt="Снимок экрана (828)" src="https://github.com/user-attachments/assets/6d88de31-fbc7-4211-a5bd-e93cba8bb4c6" />
+<img width="1920" height="1080" alt="Снимок экрана (829)" src="https://github.com/user-attachments/assets/f0f7fff4-02ff-4e7f-b91e-efbed56b6b5b" />
+<img width="1920" height="1080" alt="Снимок экрана (830)" src="https://github.com/user-attachments/assets/cf28818a-17cc-4438-b37b-1bc6a68cf0f1" />
